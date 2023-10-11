@@ -4,16 +4,9 @@
 
 This study guide was created for bootcamp intellectuals who were going thru the prework. It contains highly classified information on HTML, CSS, Git, and JavaScript.
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
-
-
-
 ## Installation
 
 N/A
-
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
 
 ## Usage
 
